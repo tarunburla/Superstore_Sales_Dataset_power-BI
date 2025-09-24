@@ -94,29 +94,6 @@ supermarket-sales-dashboard/
 
 ---
 
-<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
-
-**Branch & City Insights:**
-
-* Sales highest in **Yangon**, lowest in **Naypyitaw**
-* **Branch C** leads in customer count
-
-**Product Line Insights:**
-
-* **Food & Beverages** and **Electronic Accessories** are top contributors
-* **Health & Beauty** shows lowest average revenue
-
-**Customer Insights:**
-
-* **Female customers** spend slightly more than males
-* **Member customers** generate higher average sales
-
-**Payment Methods:**
-
-* **E-wallets** are the most preferred payment method
-
----
-
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
 1. **which is highest selling product ?**
