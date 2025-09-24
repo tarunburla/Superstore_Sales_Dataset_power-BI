@@ -3,8 +3,7 @@
 _visualizing superstore sales dataset_
 
 ---
-The Supermarket Sales Dashboard offers a comprehensive view of sales performance, customer behavior, and operational metrics across various branches. Utilizing Power BI, the dashboard transforms raw data into actionable insights, enabling data-driven decision-making.
-
+This project visualizes and analyzes Superstore Sales Data using Power BI, uncovering key insights on sales performance, customer behavior, and product trends. The dashboard helps identify top-selling products, high-performing cities, and valuable customer segments to support strategic decision-making.
 ---
 
 ## 📌 Table of Contents
