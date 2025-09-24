@@ -48,8 +48,10 @@ Retail businesses must monitor sales performance and customer preferences to sta
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 * **Source:** Kaggle – *Supermarket Sales Dataset*
-* **Attributes:** Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total, Date, Time, Payment Method, Rating
-* **Size:** \~1,000 transactions across 3 branches
+* **Attributes:**Row ID, Order ID,order Date, Ship Date,	Ship Mode,	Customer ID,	Customer Name,	Segment	Country,	City,	State,	Postal Code,	Region,	Product ID	Category, Sub-Category,	Product Name,	Sales
+<img width="2825" height="26" alt="image" src="https://github.com/user-attachments/assets/a0c4a2ae-11f3-49be-805f-5e50cef90d36" />
+
+* **Size:** \~9,8000 customer sales
 
 ---
 
@@ -57,7 +59,6 @@ Retail businesses must monitor sales performance and customer preferences to sta
 
 * **Power BI** (Interactive Dashboard, DAX Measures)
 * **Excel / Power Query** (Data Cleaning & Preprocessing)
-* **SQL** (Optional for querying/filtering)
 * **GitHub** (Version control & documentation)
 
 ---
@@ -86,8 +87,7 @@ supermarket-sales-dashboard/
 * Checked and corrected data types (Date, Time, Categorical fields)
 * Created new calculated columns:
 
-  * **Gross Income** = (Unit Price × Quantity × 5%)
-  * **Total Sales** = (Unit Price × Quantity) + Tax
+  * **Total Sales** = (Sale price) 
   * **Month / Day / Hour** extracted for time-based analysis
 * Handled missing or duplicate values
 * Standardized categorical values (e.g., gender, payment method)
@@ -109,7 +109,7 @@ supermarket-sales-dashboard/
    → **Top 5 customers contribute significantly higher than average.**
 
 5. **When are sales the highest?**
-   → **2018 year was highest sales **.
+   → **2018 year was highest sales.**
 
 ---
 
@@ -119,7 +119,7 @@ supermarket-sales-dashboard/
 * Bar/Column Charts: **sales by sub category, Sum of Sales by City**
 * Donut Chart: **sum sales by sub category**
 * Line Chart: **sales by yearly and quartely**
-* Table: **Top 5 Customers by Sales,segment sales**
+* Table: **Top 5 Customers by Sales, segment sales**
 
 ![Supermarket Sales Dashboard](images/dashboard.png)
 
@@ -136,11 +136,10 @@ supermarket-sales-dashboard/
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-* **Expand Food & Beverages line** due to high demand
-* **Promote low-performing categories** like Health & Beauty
-* **Encourage membership programs** (members spend more)
-* **Boost e-wallet partnerships** to increase digital payments
-* **Offer evening/weekend promotions** to leverage peak sales time
+* **Expand Technology line** due to high demand
+* **Promote low-performing categories** like Art and fastener
+* **Encourage Cities programs** (members spend more)
+* **Boost Home Office partnerships** to increase Sales
 
 ---
 
@@ -154,5 +153,4 @@ Data Analyst | Business Intelligence Enthusiast
 
 ---
 
-Would you like me to also **make a polished PDF report version** (like a case study with visuals & summary) that you can attach along with your dashboard?
 
