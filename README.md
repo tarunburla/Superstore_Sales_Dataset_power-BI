@@ -128,8 +128,7 @@ supermarket-sales-dashboard/
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Download dataset from [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
-2. [Download Dashboard File](https://github.com/yourusername/supermarket-sales-dashboard/blob/main/dashboard/supermarket_sales_dashboard.pbix)
-3. Refresh the data source (link to ).
+2.[Open Supermarket Store Analysis Dashboard](supermarket%20store%20analysis.pbix)
 
 ---
 
