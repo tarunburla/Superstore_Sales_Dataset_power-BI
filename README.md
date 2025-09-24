@@ -25,7 +25,7 @@ This project visualizes and analyzes Superstore Sales Data using Power BI, uncov
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project analyzes supermarket sales data to uncover customer behavior, sales patterns, and branch performance. The goal is to build a **Power BI dashboard** that provides actionable insights into product line performance, customer segments, and revenue trends.
+This project analyzes supermarket sales data to provide actionable insights into sales trends, product performance, and customer behavior. Using Power BI, the dashboard visualizes key metrics such as top-selling products, branch performance, and revenue patterns, enabling data-driven decisions for business optimization.s.
 
 ---
 
