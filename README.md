@@ -119,7 +119,8 @@ supermarket-sales-dashboard/
 * Line Chart: **sales by yearly and quartely**
 * Table: **Top 5 Customers by Sales, segment sales**
 
-![Supermarket Sales Dashboard](<img width="1340" height="747" alt="Screenshot 2025-09-24 214245" src="https://github.com/user-attachments/assets/f4602847-a6e7-4c19-9602-cb8f0eb1c162" />
+![Supermarket Sales Dashboard]img <img width="1324" height="741" alt="Screenshot 2025-09-24 214216" src="https://github.com/user-attachments/assets/8ab6baa4-a801-4466-9a2d-9b352afb3368" />
+
 
 
 ---
