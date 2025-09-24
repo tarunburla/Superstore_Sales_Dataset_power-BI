@@ -119,30 +119,30 @@ supermarket-sales-dashboard/
 
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-1. **Which branch generates the highest sales?**
-   → **Branch C**, mainly in Yangon.
+1. **which is highest selling product ?**
+   → **printer is highest selling product.**
 
-2. **Which product line contributes most to revenue?**
-   → **Food & Beverages** and **Electronic Accessories**.
+2. **Which city has highest sales?**
+   → **New York has highest sales.**
 
-3. **What are customer preferences in payment methods?**
-   → **E-wallet** is the top choice, followed by **Cash**.
+3. **which category contribute more revenue ?**
+   → **technology category contribute more .**
 
 4. **Who are the top customers by sales?**
-   → Top 5 customers contribute significantly higher than average.
+   → **Top 5 customers contribute significantly higher than average.**
 
 5. **When are sales the highest?**
-   → Sales peak during **evenings and weekends**.
+   → **2018 year was highest sales **.
 
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-* KPI Cards: **Total Sales, Average Sales, Gross Income**
-* Bar/Column Charts: **Sales by Product Line, Payment Method, City**
-* Donut Chart: **Customer Type & Gender distribution**
-* Line Chart: **Monthly and Daily Sales Trends**
-* Table: **Top 5 Customers by Sales**
+* KPI Cards: **Total Sales, Average Sales, Total customer**
+* Bar/Column Charts: **sales by sub category, Sum of Sales by City**
+* Donut Chart: **sum sales by sub category**
+* Line Chart: **sales by yearly and quartely**
+* Table: **Top 5 Customers by Sales,segment sales**
 
 ![Supermarket Sales Dashboard](images/dashboard.png)
 
@@ -171,7 +171,7 @@ supermarket-sales-dashboard/
 
 **Tarun Burla**
 Data Analyst | Business Intelligence Enthusiast
-📧 Email: *\[your email]*
+📧 Email: *\[tarunburla1234@gmail.com]*
 🔗 [LinkedIn](https://www.linkedin.com/)
 🔗 [Portfolio](https://github.com/)
 
