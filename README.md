@@ -3,10 +3,7 @@
 _visualizing superstore sales dataset_
 
 ---
-
-Perfect 👍 You already have a **template** (Table of Contents + project breakdown). Since your project is on **Supermarket Sales Dashboard (Kaggle dataset)**, I’ll fill it with relevant details for you.
-
-Here’s a ready-to-use **README.md style write-up** for your project:
+The Supermarket Sales Dashboard offers a comprehensive view of sales performance, customer behavior, and operational metrics across various branches. Utilizing Power BI, the dashboard transforms raw data into actionable insights, enabling data-driven decision-making.
 
 ---
 
@@ -127,8 +124,8 @@ supermarket-sales-dashboard/
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
-1. Download dataset from [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
-2.[Open Supermarket Store Analysis Dashboard](supermarket%20store%20analysis.pbix)
+1. Download dataset from [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).  
+2. [Open Supermarket Store Analysis Dashboard](supermarket%20store%20analysis.pbix)
 
 ---
 
