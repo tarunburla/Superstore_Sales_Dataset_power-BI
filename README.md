@@ -49,8 +49,6 @@ Retail businesses must monitor sales performance and customer preferences to sta
 
 * **Source:** Kaggle – *Supermarket Sales Dataset*
 * **Attributes:**Row ID, Order ID,order Date, Ship Date,	Ship Mode,	Customer ID,	Customer Name,	Segment	Country,	City,	State,	Postal Code,	Region,	Product ID	Category, Sub-Category,	Product Name,	Sales
-<img width="2825" height="26" alt="image" src="https://github.com/user-attachments/assets/a0c4a2ae-11f3-49be-805f-5e50cef90d36" />
-
 * **Size:** \~9,8000 customer sales
 
 ---
@@ -121,7 +119,8 @@ supermarket-sales-dashboard/
 * Line Chart: **sales by yearly and quartely**
 * Table: **Top 5 Customers by Sales, segment sales**
 
-![Supermarket Sales Dashboard](images/dashboard.png)
+![Supermarket Sales Dashboard](<img width="1340" height="747" alt="Screenshot 2025-09-24 214245" src="https://github.com/user-attachments/assets/f4602847-a6e7-4c19-9602-cb8f0eb1c162" />
+
 
 ---
 
@@ -129,8 +128,7 @@ supermarket-sales-dashboard/
 
 1. Download dataset from [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
 2. Open `supermarket_sales_dashboard.pbix` in Power BI.
-3. Refresh the data source (link to `supermarket_sales.csv`).
-4. Interact with filters (Branch, City, Product Line, Payment Method).
+3. Refresh the data source (link to ).
 
 ---
 
