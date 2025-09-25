@@ -85,7 +85,7 @@ supermarket-sales-dashboard/
 
   * **Total Sales** = (Sale price) 
   * **Month / Day / Hour** extracted for time-based analysis
-* Handled missing or duplicate values
+*  checked missing or duplicate values
 * Standardized categorical values (e.g., gender, payment method)
 
 ---
