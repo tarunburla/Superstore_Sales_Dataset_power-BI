@@ -16,7 +16,6 @@ This project visualizes and analyzes Superstore Sales Data using Power BI, uncov
 * <a href="#tools--technologies">Tools & Technologies</a>
 * <a href="#project-structure">Project Structure</a>
 * <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-* <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 * <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 * <a href="#dashboard">Dashboard</a>
 * <a href="#how-to-run-this-project">How to Run This Project</a>
